@@ -24,10 +24,10 @@ The dashboard accepts CSV or Excel files containing the following columns:
 
 | Column | Required |
 |---------|----------|
-| `text` or `clean_text` | ✅ |
+| `text` | ✅ |
 | `sentiment` | ✅ |
 | `emotion` | ✅ |
-| `mhi_score` | Optional |
+| `mhi_score` | ✅ |
 
 Once the dataset is uploaded, click **Analyze**. The dashboard automatically calculates the Morale Health Index, generates visualizations, and displays AI insights (if a valid API key is configured).
 
