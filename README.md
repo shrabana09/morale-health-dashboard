@@ -37,7 +37,7 @@ Once the dataset is uploaded, click **Analyze**. The dashboard automatically cal
 
 ## Upload Page
 
-![Upload Page](upload_page.png)
+![Upload Page](upload-page.png)
 
 The user uploads a CSV or Excel file containing sentiment and emotion data.
 
@@ -61,7 +61,7 @@ The dashboard displays:
 
 ## Raw Data Preview
 
-![Raw Data](raw_data.png)
+![Raw Data](raw-data.png)
 
 The uploaded dataset is also displayed in a table for quick inspection.
 
