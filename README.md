@@ -110,4 +110,4 @@ requirements.txt
 
 ## Note
 
-The AI Insights feature requires a valid Groq API key. If the API key is not configured, the dashboard and all visualizations continue to work normally.continue to work normally.
+The AI Insights feature requires a valid Groq API key. If the API key is not configured, the dashboard and all visualizations continue to work normally.
